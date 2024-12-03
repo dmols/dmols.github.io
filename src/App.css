@@ -1,7 +1,12 @@
 .App {
   text-align: center;
+  background-image: url("./images/space.jpg");
 }
 
+.bg-img {
+  display: block;
+  background-image: image_url("./images/space.jpg");
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
